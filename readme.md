@@ -1,5 +1,5 @@
-# primdev-beginner-1
-Materi PHP Beginner Primakara Developers
+# Primdev Login Register
+Materi PHP Beginner untuk login dan register Primakara Developers
 
 # Database setup
 * Nama Database: primakara
